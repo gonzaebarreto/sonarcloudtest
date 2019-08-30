@@ -1,0 +1,23 @@
+{
+    "fluentMethods": true,
+    "clientRootFolder": "sonarcloudtest",
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "unCampo",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "otroCampo",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20190830164214",
+    "dto": "mapstruct",
+    "searchEngine": false,
+    "service": "serviceClass",
+    "entityTableName": "clase_de_negocio",
+    "jpaMetamodelFiltering": false,
+    "pagination": "no",
+    "microserviceName": "sonarcloudtest"
+}
