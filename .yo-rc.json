@@ -1,0 +1,31 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "app.sonarcloud.test"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "microservice",
+    "baseName": "sonarcloudtest",
+    "packageName": "app.sonarcloud.test",
+    "packageFolder": "app/sonarcloud/test",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "MjU3NzQ0OGU5ZGZjNjViZTczNjdlNzU3ZTNiNDcyNjVjMWQ4OWE1OGU0NmI1NjU5NjJhODdkYmU1Y2YxNTNlM2VmOTg2OWJlY2IwNDY2NmM5MDAyYmI5ZDU1NmIzMjc2YjJkOGNmZGEzNjcyZDIyMzU1NzM3YTVkOTI3ZmQ0NTg=",
+    "enableTranslation": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
